@@ -1,0 +1,8 @@
+html{
+  font-family: helvetica;
+  text-align: center;
+}
+
+#Home{
+  background-image: url("../images/building.png");
+}
