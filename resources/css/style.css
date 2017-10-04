@@ -3,6 +3,54 @@ html{
   text-align: center;
 }
 
+/*unvisited link*/
+:link {
+  color: white;
+}
+
+/*vistied link*/
+:visited{
+  color: white;
+}
+
 #Home{
   background-image: url("../images/building.png");
+  color: white;
+}
+
+#Home h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#Home p{
+  font-size: 18px;
+}
+
+h2{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.special{
+  background-image: url("../images/building.png");
+  color: white;
+}
+
+p{
+  font-size: 14px;
+}
+
+#bottom{
+  text-align: left;
+  background-color: gray;
+}
+
+#bottom span{
+  color:white;
+  font-size: 11px;
+}
+
+#bottom p{
+  font-size: 18px;
 }
